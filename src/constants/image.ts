@@ -1,0 +1,1 @@
+export const noImageFoundUrl = 'https://hop-malt.com/assets/template/frontend/img/noimage.jpg';
